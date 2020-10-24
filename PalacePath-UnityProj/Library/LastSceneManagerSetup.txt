@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/PalacePath/Scenes/Primitives-Baked-3Lights.unity
+- path: Assets/PalacePath/Scenes/BreathingRoom-MonVall.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

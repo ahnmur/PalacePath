@@ -17,7 +17,8 @@
 # /[Aa]ssets/AssetStoreTools*
 
 # Bakery files
-[Aa]ssets/Bakery
+[Aa]ssets/Bakery/
+
 # Visual Studio cache directory
 .vs/
 
